@@ -1,0 +1,6 @@
+{
+"compilerOptions": {
+"composite": true,
+"emitDeclarationOnly": false },
+"include": ["vite.config.ts", "build/*.ts"]
+}
